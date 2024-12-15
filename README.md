@@ -11,7 +11,9 @@ This repository contains MATLAB code for AI and ML projects related to the PUSL3
   
 
 ## Introduction
-This repository is dedicated to the PUSL3123 AI and ML course. It includes various projects and assignments implemented using MATLAB.
+With the growing reliance on digital devices such as smartphones and smartwatches for accessing sensitive information like online payments and banking, ensuring robust and seamless user authentication has become essential. This project aims to enhance authentication methods by evaluating acceleration-based features to verify user identity through neural networks.
+
+The assessment involves analyzing the dataset to understand inter and intra variance using descriptive statistics, training and evaluating the data using a Feedforward Multi-Layer Perceptron (feedforwardnet), and optimizing performance with feature selection and classifier adjustments. By leveraging neural network techniques and performance optimization methods, this project provides a transparent and continuous approach to safeguarding user data from unauthorized access, demonstrating the potential of machine learning in real-world security scenarios.
 
 ## Installation
 To use the code in this repository, follow these steps:
